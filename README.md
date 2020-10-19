@@ -1,8 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello World
 
-# Project Name
-
-> One paragraph statement about the project.
+> a HELLO WORLD Header message.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,9 +8,8 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- html
+- CSS
 
 ## Live Demo
 
@@ -21,39 +18,18 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+**This is an example of how to master the gitflow and linters work.**
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Boaz Aduda**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Aduda-Boaz)
+- Twitter: [@twitterhandle](https://twitter.com/BoazAduda)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/boaz-aduda/)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
